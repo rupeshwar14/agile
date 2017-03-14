@@ -1,2 +1,2 @@
 # agile
-First repo
+First repository.
